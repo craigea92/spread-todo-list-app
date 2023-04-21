@@ -24,4 +24,5 @@ npm start
 
 ## Screenshot
 
+<img width="1351" alt="image" src="https://user-images.githubusercontent.com/82875984/233613455-8d7f611b-c9a6-4b6c-b223-dfbab684ae5d.png">
 
