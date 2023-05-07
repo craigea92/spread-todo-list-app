@@ -18,6 +18,7 @@ In terms of future development, I do not intend to add to this repository. I hav
 ## How to Install and Run
 ```
 git clone https://github.com/craigea92/spread-todo-list-app.git
+cd spread-todo-list-app
 npm install
 npm start
 ```
@@ -26,3 +27,5 @@ npm start
 
 <img width="1351" alt="image" src="https://user-images.githubusercontent.com/82875984/233613455-8d7f611b-c9a6-4b6c-b223-dfbab684ae5d.png">
 
+## What is the Spread Operator?
+Introduced in ES6, the spread operator allows you to expand or spread arrays and objects into multiple elements. This can be useful when copying arrays or objects or when working with a number of arguments or properties.
