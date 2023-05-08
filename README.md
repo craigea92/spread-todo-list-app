@@ -29,3 +29,6 @@ npm start
 
 ## What is the Spread Operator?
 Introduced in ES6, the spread operator allows you to expand or spread arrays and objects into multiple elements. This can be useful when copying arrays or objects or when working with a number of arguments or properties.
+
+## What are Memoized Functions?
+Mezoization is an optimization technique, similar to caching. It works by storing the previous results of a function call and using those results the next time the function runs. It is especailly useful in computation-heavy apps that repeat function call on the same parameters.
